@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "@libsql/client": "^0.14.0",
+    "@planetscale/database": "^1.19.0",
     "@radix-ui/react-slot": "^1.1.1",
     "@t3-oss/env-nextjs": "^0.10.1",
     "class-variance-authority": "^0.7.1",
